@@ -63,8 +63,8 @@ Siga os passos abaixo para preparar seu ambiente e começar os experimentos:
 1. **Clone este repositório:**
    Abra o terminal e digite:
    ```bash
-   git clone https://github.com/professorjoaomiguel/lab_se.git
-   cd lab_se
+   git clone https://github.com/professorjoaomiguel/lab-se.git
+   cd lab-se
    ```
 
 2. **Crie sua branch pessoal:**
